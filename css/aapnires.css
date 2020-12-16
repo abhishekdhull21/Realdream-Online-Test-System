@@ -1,0 +1,30 @@
+
+@media only screen and (max-width: 736px){
+	.cbox{
+	
+		margin:10px;
+
+	}
+	.cshow{
+		width:150px;
+		
+	}
+	}
+	
+@media only screen and (min-width: 736px){
+	.cbox{
+	
+		padding:10px;
+
+	}
+	.jumbotron
+	{
+		width:736px;
+	}
+	.chr
+	{
+		width:788px;
+		
+	}
+	}
+

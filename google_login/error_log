@@ -1,0 +1,62 @@
+[24-Oct-2018 03:12:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/realdrea/public_html/fb/google/User.php on line 12
+[24-Oct-2018 03:12:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/realdrea/public_html/fb/google/User.php on line 12
+[24-Oct-2018 06:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 06:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 06:56:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 06:56:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 06:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 06:58:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 06:58:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 07:04:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 07:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 07:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 07:06:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:38
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 38
+[24-Oct-2018 07:08:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/realdrea/public_html/fb/google/User.php:39
+Stack trace:
+#0 /home/realdrea/public_html/fb/google/index.php(35): User->checkUser(Array)
+#1 {main}
+  thrown in /home/realdrea/public_html/fb/google/User.php on line 39

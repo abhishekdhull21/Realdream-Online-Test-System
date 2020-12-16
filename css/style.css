@@ -1,0 +1,130 @@
+
+
+html,body{
+  width: 100%;
+  font-size:18px;
+  background-color:#CAD3C8;
+  overflow-x: hidden;
+}
+#marks{
+    height:500px;
+    overflow:hidden;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    margin-top: 2vh;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+.sdash{
+  margin:0vh;
+  overflow: hidden;
+  font-size:1.94vh;
+  background-color: rgba(210, 215, 211, 1);
+  
+}
+#profile{
+  font-size: 12px;
+  margin:0vh;
+  margin-top: 3vh;
+  margin-bottom: 0vh;
+}
+
+.banner{
+    
+    height:20vh;
+    padding: 0vh;
+    width: 70vh;
+    overflow:hidden;
+    
+}
+.profile_heading{
+      font-size: 16px;
+      font-weight: bold;
+      font-variant: small-caps;
+}
+.profile_subheading{
+  font-size: 16px;
+  font-variant: small-caps;
+  
+}
+.mainadvert{
+  
+  
+  overflow: hidden;
+  
+}
+.mainnav{
+  background-color: rgba(232, 232, 232, 1);
+  border-bottom: 2px solid black;
+  overflow:hidden;
+}
+#editpro{
+    top: 2vh;
+    padding-top: 3vh;
+    margin-left: 4vh;
+    font-size: 16px;
+    font-variant: small-caps;
+}
+.panel-body{
+    padding:0px;
+    width:80vh;
+}
+img{
+    
+    height:auto;
+}
+input[type=submit]{
+    background: #f03434;
+    color:white;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 17%;
+}
+input[type=text]{
+  border-radius: 1rem;
+}
+@media only screen and (min-width: 768px)  {
+      
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    margin-left: 10vh;
+
+}
+.mainadvert{
+  padding: 6vh;
+}
+.banner{
+    height:16vh;
+    padding:0vh;
+    width: 400px;
+   
+}
+
+  }
+
+
+
+@media (max-width: 480px)  {
+    
+.mainnav{
+  width: 50vh;
+}
+}
+
